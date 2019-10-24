@@ -5,7 +5,7 @@ void main (){
   runApp(
     Center(child:
       Text(
-          "Hello Flutter!",
+          "Hello World!",
           textDirection: TextDirection.ltr
       )
     )
